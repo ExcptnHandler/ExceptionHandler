@@ -4,7 +4,7 @@
 **»** 🌍 **Languages**: English, German
 
 # 📩 Contact
-**» Discord**: malte.1705
+**» Discord**: <code>malte.1705</code>
 
 # 💚 EndoriaMC
 EndoriaMC is a German Minecraft Network focussed on classic Survival Mulitplayer, <br>
